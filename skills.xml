@@ -1,0 +1,26 @@
+<?xml version=" 1.0 " encoding="utf-8"?>
+<THEORY> Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC</THEORY>
+<CLIENT-SERVER ARCHITECTURE> Что такое клиент серверная архитектура. </CLIENT-SERVER ARCHITECTURE>
+<METHODS OF REQUESTS TO THE SERVER> Методы запросов на сервер. </METHODS OF REQUESTS TO THE SERVER>
+<SERVER RESPONSES> Ответы сервера. </SERVER RESPONSES>
+<STRUCTURES OF RECQUESTS AND  RESPONSES> Структуры запросов и ответов. </STRUCTURES OF RECQUESTS AND  RESPONSES>
+<JSON XML> Что такое JSON, XML. Их структура. </JSON XML> 
+<API TESTING> Тестирование API. </API TESTING>
+<REMOVING AND READING LOGS> Снятие и чтение логов. </REMOVING AND READING LOGS> 
+<POSTMAN FIDLER> Postman, Fidler. </POSTMAN FIDLER>
+<VPN> VPN. (Как работает, зачем нужен, как использовать, варианты инструментов) </VPN>
+<DEV TOOLS OF WEB BROWSERS> Dev Tools веб браузеров (Google Chrome, FireFox). </DEV TOOLS OF WEB BROWSERS> 
+<MOBILE TESTING> Мобильное тестирование. </MOBILE TESTING> 
+<FEATURE OF IOS ANDROID> Особенность iOS, Android, гайдлайны. </FEATURE OF IOS ANDROID> 
+<BUILDING IOS APPS ON XCODE> Сборка iOS приложений на XCode </BUILDING IOS APPS ON XCODE>
+<BUILDING ANDROID APPS ON ANDROID STUDIO> Сборка Android приложений на Android Studio </BUILDING ANDROID APPS ON ANDROID STUDIO>
+<CHARLES> Перехват мобильного трафика (сниффинг) через Charles </CHARLES>
+<PROXY SETTINGS JN IOS AND ANDROID> Настройка прокси на iOS и Android. </PROXY SETTINGS JN IOS AND ANDROID> 
+<LINUX TERMINAL> Командная строка (terminal) Linux Ubuntu. Копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса. </LINUX TERMINAL> 
+<SIMPLE BASH SCRIPTING, AUTOMATION OF ROUTENE TASKS ON THE SERVER> Простой bash скриптринг , автоматизация рутинных задач на сервере. </SIMPLE BASH SCRIPTING, AUTOMATION OF ROUTENE TASKS ON THE SERVER>
+<ACCESS TO REMOTE SERVERS> Доступ к удалённым серверам. </ACCESS TO REMOTE SERVERS>
+<SQL> Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</SQL>
+<GIT> Git </GIT>
+<JMETER> Jmeter </JMETER>
+<SCRUM> Методология разработки Scrum </SCRUM>
+<PYTHON> Python. Создание собственного клиент-серверного приложения. </PYTHON>

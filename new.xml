@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 <?xml version=" 1.0 " encoding="utf-8"?>
  <FIRST_NAME>Jullia</FIRST_NAME>
  <LAST_NAME>Matyak</LAST_NAME>
  <AGE>40</AGE>
  <NUMBER_OF_PETS>2</NUMBER_OF_PETS>
  <FUTURE_DESIRED_SALARY $>1500</FUTURE_DESIRED_SALARY $>
+=======
+ <?xml version=" 1.0 " encoding="utf-8"?>
+ <FIRST_NAME>Jullia</FIRST_NAME>
+ <LAST_NAME>Matyak</LAST_NAME>
+ <AGE>40</AGE>
+ <NUMBER_OF_PETS>2</NUMBER_OF_PETS>
+ <FUTURE_DESIRED_SALARY $>1500</FUTURE_DESIRED_SALARY $>
+>>>>>>> 9eee8c6cd144b9e90f16c47a35d29d27fce1efcc
